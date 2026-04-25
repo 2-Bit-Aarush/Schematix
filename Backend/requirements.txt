@@ -1,7 +1,7 @@
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
 sentence-transformers==3.0.1
-faiss-cpu==1.8.0
+faiss-cpu==1.13.2
 numpy==1.26.4
 python-multipart==0.0.9
 pydantic==2.7.1
